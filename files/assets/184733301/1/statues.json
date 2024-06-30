@@ -1,0 +1,26 @@
+[
+        { 
+        "title": "Meštrovićev Paviljon",
+        "date": "",
+        "artist": "Idejna skica: akademski kipar Ivan Meštrović (1883.-1962.) Arhitektonski projekt i razrada: arh. Harold Bilinić (1894.-1984.), Arh. Lavoslav Horvat (1901.-1989.), Gradski građevinski ured predvođen arh. Ivanom Zemljakom (1893.-1963.) vrijeme gradnje: 1934. – 1938.",
+        "description": "Meštrovićev paviljon, poznat i kao Dom hrvatskih likovnih umjetnika, smješten je na Trgu žrtava fašizma u Zagrebu. Dizajnirao ga je poznati hrvatski kipar i arhitekt Ivan Meštrović, a izgrađen je 1939. godine. Tijekom povijesti je služio raznim namjenama, uključujući i džamiju tijekom Drugog svjetskog rata. Arhitektonski, zgrada se ističe svojom kružnom formom, monumentalnim ulazom i modernističkim stilom s čistim linijama i geometrijskim oblicima. Danas je dom Hrvatskog društva likovnih umjetnika (HDLU) i služi kao izložbeni prostor za umjetničke i kulturne događaje, promičući hrvatsku kulturu i umjetnost.",
+        "origin": "",
+        "material": "Zagreb"
+    },
+    {
+        "title": "Katedrala",
+        "date": "1880.",
+        "artist": "Arhitekt: Hermann Bollé",
+        "description": "Zagrebačka katedrala, poznata kao Katedrala Uznesenja Blažene Djevice Marije i svetih Stjepana i Ladislava, najveća je sakralna građevina u Hrvatskoj. Sagrađena je u 11. stoljeću i obnovljena nakon potresa 1880. i 2020. godine. Katedrala, obnovljena u neogotičkom stilu, ima dva tornja visoka 92 metra. Glavni arhitekt obnove nakon potresa 1880. bio je Hermann Bollé, koji je dao katedrali današnji izgled. U katedrali su pokopani mnogi hrvatski velikani, uključujući Alojzija Stepinca i Frana Krstu Frankopana.",
+        "origin": "",
+        "material": "Zagreb"
+    },
+        {
+        "title": "HNK",
+        "date": "1860.",
+        "artist": "Ferdinand Fellner i Hermann Helmer",
+        "description": "Hrvatsko narodno kazalište (HNK) u Zagrebu je jedna od centralnih kulturnih institucija u Hrvatskoj, s bogatom poviješću koja seže u 19. stoljeće. Kazalište je osnovano 1860. godine, a impresivna zgrada u kojoj se i danas nalazi otvorena je 1895. godine. Projektirao ju je slavni bečki arhitektonski duo Ferdinand Fellner i Hermann Helmer, koji su poznati po dizajniranju brojnih kazališta i zgrada diljem Europe. Zgrada HNK u Zagrebu ističe se svojom neobaroknom arhitekturom i raskošnim interijerom koji uključuje bogate ukrase, veliku pozornicu i prostrani gledališni prostor. Ovo kazalište služi kao mjesto za izvedbe klasičnih i suvremenih djela iz područja opere, baleta i drame. HNK ima važnu ulogu u kulturnom životu Hrvatske, redovito organizirajući domaće i međunarodne produkcije, te je domaćin mnogih festivala i kulturnih događaja. Uz svoju stalnu repertoaru, kazalište često surađuje s međunarodnim umjetnicima i ansamblima, čime doprinosi razmjeni kultura i umjetničkim inovacijama.",
+        "origin": "",
+        "material": "Zagreb"
+    }
+] 
